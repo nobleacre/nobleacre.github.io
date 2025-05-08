@@ -159,7 +159,7 @@ h5 {
   display: block;
   height: 3px;
   font-weight: bold;
-  background-color: #FF385C;
+  background-color: Orange;
   content: " ";
   width: 100px;
   margin: 0 auto;
@@ -187,7 +187,7 @@ h5 {
   content: '';
   border-radius: 3px;
   position: absolute;
-  background-color: #FF385C;
+  background-color: Orange;
 }
 
 .section-title h3 {
@@ -224,7 +224,7 @@ img {
 /*------ 2. SECTION HEADINGS ------*/
 /*-----------------------------------*/
 .header-top {
-  background: #FF385C;
+  background: Orange;
   color: #7f8997;
   display: block;
   padding: 1rem 0;
@@ -366,7 +366,7 @@ img {
 }
 
 .header-top .social-icons:hover {
-  color: #FF385C;
+  color: Orange;
 }
 
 .header-top .dropdown {
@@ -555,7 +555,7 @@ img {
 }
 
 .get-quote a:hover {
-  color: #FF385C;
+  color: Orange;
 }
 
 #bloq-search {
@@ -574,7 +574,7 @@ img {
 }
 
 .bloq-search input[type="text"] {
-  border: 1px solid #FF385C;
+  border: 1px solid Orange;
   border-radius: 5px 0 0 5px;
   margin-bottom: 0px;
   padding: 1rem;
@@ -590,7 +590,7 @@ img {
   border: 0;
   width: auto;
   border-radius: 0 5px 5px 0;
-  background: #FF385C;
+  background: Orange;
   color: #fff;
   cursor: pointer;
   margin-bottom: 0px;
@@ -628,7 +628,7 @@ img {
 
 #main-menu ul a:hover,
 #main-menu ul li.active a {
-  color: #FF385C;
+  color: Orange;
 }
 
 #main-menu .card {
@@ -723,7 +723,7 @@ img {
 }
 
 .tp-leftarrow:hover {
-  background: #FF385C;
+  background: Orange;
 }
 
 .tp-rightarrow {
@@ -732,7 +732,7 @@ img {
 }
 
 .tp-rightarrow:hover {
-  background: #FF385C;
+  background: Orange;
 }
 
 .tp-parallax-wrap {
@@ -791,14 +791,14 @@ img {
 }
 
 .btn-default.btn-theme-colored2:hover {
-  background: #FF385C;
+  background: Orange;
   color: #fff;
   border-color: #fff;
 }
 
 .btn-dark.btn-theme-colored {
   color: #fff;
-  background-color: #FF385C;
+  background-color: Orange;
   border-color: #fff;
   font-size: 16px;
   font-weight: 600;
@@ -818,7 +818,7 @@ img {
 /*------ BUTTOM HOVER EFFECT ------*/
 /* Box colors */
 .bg-1 {
-  background: #FF385C;
+  background: Orange;
   color: #fff;
   display: inline-block;
   -webkit-box-pack: start;
@@ -897,7 +897,7 @@ img {
 
 .bg-2 .button {
   color: #000 !important;
-  border-color: #FF385C;
+  border-color: Orange;
 }
 
 .bg-2 .button:hover {
@@ -910,12 +910,12 @@ img {
 }
 
 .bg-3 .button {
-  color: #FF385C;
-  border-color: #FF385C;
+  color: Orange;
+  border-color: Orange;
 }
 
 .bg-3 .button:hover {
-  border-color: #FF385C;
+  border-color: Orange;
   color: #fff;
 }
 
@@ -999,7 +999,7 @@ img {
   left: 0;
   width: 150%;
   height: 100%;
-  background: #FF385C;
+  background: Orange;
   z-index: -1;
   -webkit-transform: rotate3d(0, 0, 1, -45deg) translate3d(0, -3em, 0);
           transform: rotate3d(0, 0, 1, -45deg) translate3d(0, -3em, 0);
@@ -1018,12 +1018,12 @@ img {
 
 .button--wayra.button--inverted:hover {
   color: #fff;
-  border-color: #FF385C;
+  border-color: Orange;
 }
 
 .button--wayra:hover::before {
   opacity: 1;
-  background-color: #FF385C;
+  background-color: Orange;
   -webkit-transform: rotate3d(0, 0, 1, 0deg);
           transform: rotate3d(0, 0, 1, 0deg);
   -webkit-transition-timing-function: cubic-bezier(0.2, 1, 0.3, 1);
@@ -1031,7 +1031,7 @@ img {
 }
 
 .button--wayra.button--inverted:hover::before {
-  background-color: #FF385C;
+  background-color: Orange;
 }
 
 .portfolio .box a {
@@ -1149,7 +1149,7 @@ section.recently.portfolio {
 }
 
 .portfolio .sec-title h2 {
-  color: #FF385C;
+  color: Orange;
   margin-bottom: .5rem;
 }
 
@@ -1183,7 +1183,7 @@ section.recently.portfolio {
   border-radius: 2px;
   color: #fff;
   border: none;
-  background-color: #FF385C;
+  background-color: Orange;
   display: inline-block;
   z-index: 99;
 }
@@ -1342,13 +1342,13 @@ section.recently.portfolio {
   font-size: 14px;
   line-height: 40px;
   list-style: none;
-  color: #FF385C;
+  color: Orange;
 }
 
 .recently .homes-content .homes-list li i {
   font-size: 1rem;
   margin-right: 5px;
-  color: #FF385C;
+  color: Orange;
 }
 
 .recently .homes-content .homes-list span {
@@ -1399,7 +1399,7 @@ section.recently.portfolio {
 }
 
 .house-details.thehp-1 i {
-  color: #FF385C;
+  color: Orange;
   font-size: 18px;
   font-weight: 500;
 }
@@ -1415,7 +1415,7 @@ section.recently.portfolio {
   border-radius: 2px;
   color: #fff;
   border: none;
-  background-color: #FF385C;
+  background-color: Orange;
   display: inline-block;
   z-index: 1;
 }
@@ -1608,11 +1608,11 @@ section.recently.portfolio {
 .hp1 .request .btn {
   cursor: pointer;
   margin-top: 1rem;
-  background: #FF385C;
+  background: Orange;
 }
 
 .hp1 .request .btn:hover {
-  background: #FF385C;
+  background: Orange;
 }
 
 .hp1 .request .address-info p:last-child {
@@ -1651,7 +1651,7 @@ section.recently.portfolio {
 .hp1 .request .contact-form input[type="text"]:focus,
 .hp1 .request .contact-form input[type="email"]:focus,
 .hp1 .request .contact-form textarea:focus {
-  border-color: #FF385C;
+  border-color: Orange;
 }
 
 .hp1 .request .contact-form textarea {
@@ -1706,7 +1706,7 @@ section.recently.portfolio {
   display: block;
   height: 3px;
   font-weight: bold;
-  background-color: #FF385C;
+  background-color: Orange;
   content: " ";
   width: 50px;
   margin-top: .5rem;
@@ -1721,7 +1721,7 @@ section.recently.portfolio {
   display: block;
   height: 3px;
   font-weight: bold;
-  background-color: #FF385C;
+  background-color: Orange;
   content: " ";
   width: 50px;
   margin-top: .5rem;
@@ -1763,7 +1763,7 @@ section.recently.portfolio {
 
 .hp1 .call-info ul li .fa {
   font-size: 1.6rem;
-  color: #FF385C;
+  color: Orange;
 }
 
 .info-help .project-single {
@@ -1959,7 +1959,7 @@ section.recently.portfolio {
 }
 
 .listing-hidden-content.blue {
-  background: #FF385C;
+  background: Orange;
 }
 
 /*----- SLICK CAROUSEL -----*/
@@ -1996,7 +1996,7 @@ section.recently.portfolio {
 .slick-next:hover {
   color: transparent;
   outline: none;
-  background: #FF385C;
+  background: Orange;
 }
 
 .slick-prev:hover:before,
@@ -2015,7 +2015,7 @@ section.recently.portfolio {
 
 .slick-prev.slick-disabled:hover,
 .slick-next.slick-disabled:hover {
-  background: #FF385C;
+  background: Orange;
   color: #fff;
 }
 
@@ -2087,7 +2087,7 @@ ul.slick-dots {
   font-size: 0;
   line-height: 0;
   cursor: pointer;
-  color: #FF385C;
+  color: Orange;
   border: 0;
   position: relative;
   outline: none;
@@ -2098,15 +2098,15 @@ ul.slick-dots {
   opacity: 1;
   border-radius: 50%;
   line-height: 0;
-  -webkit-box-shadow: inset 0 0 0 2px #FF385C;
-          box-shadow: inset 0 0 0 2px #FF385C;
+  -webkit-box-shadow: inset 0 0 0 2px Orange;
+          box-shadow: inset 0 0 0 2px Orange;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
 }
 
 .slick-dots li.slick-active {
-  -webkit-box-shadow: inset 0 0 0 6px #FF385C;
-          box-shadow: inset 0 0 0 6px #FF385C;
+  -webkit-box-shadow: inset 0 0 0 6px Orange;
+          box-shadow: inset 0 0 0 6px Orange;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
 }
@@ -2124,7 +2124,7 @@ ul.slick-dots {
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
   opacity: 0;
-  background-color: #FF385C;
+  background-color: Orange;
 }
 
 .slick-dots li.slick-active:after {
@@ -2224,7 +2224,7 @@ section.welcome {
 
 .welcome-title h2 span,
 .welcome-title h2 span {
-  color: #FF385C;
+  color: Orange;
   font-weight: 800;
 }
 
@@ -2293,7 +2293,7 @@ section.welcome {
 .welcome .popup-youtube {
   background: #fff none repeat scroll 0 0;
   border-radius: 100%;
-  color: #FF385C;
+  color: Orange;
   font-size: 30px;
   height: 70px;
   left: 50%;
@@ -2449,7 +2449,7 @@ section.services-home {
 }
 
 .services-home .bg-base {
-  background: #FF385C;
+  background: Orange;
 }
 
 .services-home .text-white {
@@ -2543,7 +2543,7 @@ section.services-home {
 }
 
 .services-home a.text-base:hover {
-  color: #FF385C;
+  color: Orange;
 }
 
 @media screen and (max-width: 991px) {
@@ -2573,7 +2573,7 @@ section.portfolio {
 }
 
 .portfolio .sec-title h2 {
-  color: #FF385C;
+  color: Orange;
   margin-bottom: .5rem;
 }
 
@@ -2608,7 +2608,7 @@ section.portfolio {
 }
 
 .portfolio .filters-group ul li:hover {
-  background: #FF385C;
+  background: Orange;
   color: #fff;
 }
 
@@ -2699,7 +2699,7 @@ section.portfolio {
   border-radius: 2px;
   color: #fff;
   border: none;
-  background-color: #FF385C;
+  background-color: Orange;
   display: inline-block;
   z-index: 1;
 }
@@ -2829,7 +2829,7 @@ section.portfolio {
 }
 
 .portfolio .homes-content h3 a:hover {
-  color: #FF385C;
+  color: Orange;
 }
 
 .price-properties h3 {
@@ -2878,13 +2878,13 @@ section.portfolio {
   font-size: 14px;
   line-height: 40px;
   list-style: none;
-  color: #FF385C;
+  color: Orange;
 }
 
 .portfolio .homes-content .homes-list li i {
   font-size: 1rem;
   margin-right: 5px;
-  color: #FF385C;
+  color: Orange;
 }
 
 .portfolio .homes-content .homes-list span {
@@ -3112,7 +3112,7 @@ section.portfolio {
 }
 
 .btn.btn-outline-light {
-  background-color: #FF385C;
+  background-color: Orange;
   color: #fff;
   border-color: #fff;
   font-size: 16px;
@@ -3170,7 +3170,7 @@ section.popular-places {
 }
 
 .popular-places .img-box:hover {
-  background: #FF385C;
+  background: Orange;
 }
 
 .popular-places .img-box:before {
@@ -3319,7 +3319,7 @@ section.feature-cities-1 {
 }
 
 .feature-cities-1 .img-box:hover {
-  background: #FF385C;
+  background: Orange;
 }
 
 .feature-cities-1 .img-box:before {
@@ -3353,7 +3353,7 @@ section.feature-cities-1 {
 }
 
 .feature-cities-1 .listing-badges .featured {
-  background-color: #FF385C;
+  background-color: Orange;
   float: right;
   border-radius: 20px;
   right: 23px;
@@ -3491,7 +3491,7 @@ section.team {
 }
 
 .team .sec-title h2 {
-  color: #FF385C;
+  color: Orange;
   margin-bottom: .5rem;
 }
 
@@ -3835,7 +3835,7 @@ section.top-location {
 .top-location .owl-theme .owl-nav [class*=owl-] {
   margin: 0;
   padding: 0;
-  background: #FF385C;
+  background: Orange;
   display: inline-block;
   cursor: pointer;
   border-radius: 0;
@@ -3932,7 +3932,7 @@ section.blog-section {
 }
 
 .blog-section .news-item a:hover h3 {
-  color: #FF385C;
+  color: Orange;
   -webkit-transition: all .25s;
   transition: all .25s;
 }
@@ -4060,15 +4060,15 @@ section.blog-section {
 }
 
 .blog-section .action-list .fa-comment {
-  color: #FF385C;
+  color: Orange;
 }
 
 .blog-section .action-list .fa-share-alt {
-  color: #FF385C;
+  color: Orange;
 }
 
 .blog-section .action-list .fa-heart {
-  color: #FF385C;
+  color: Orange;
 }
 
 .blog-section ul.action-list {
@@ -4126,7 +4126,7 @@ section.blog-section {
   position: relative;
   font-size: 1rem;
   font-weight: 600;
-  color: #FF385C;
+  color: Orange;
   -webkit-transition: all 0.25s;
   transition: all 0.25s;
 }
@@ -4211,7 +4211,7 @@ section.testimonials {
 
 .testimonials .title-style h2,
 .testimonials .title-style p {
-  color: #FF385C;
+  color: Orange;
 }
 
 .testimonials .title-style span {
@@ -4239,7 +4239,7 @@ section.testimonials {
 }
 
 .testimonials .title-icon i {
-  color: #FF385C;
+  color: Orange;
   font-size: 1.8rem;
   margin-top: 1px;
 }
@@ -4283,7 +4283,7 @@ section.testimonials {
   left: 136px;
   top: -24px;
   position: relative;
-  color: #FF385C;
+  color: Orange;
 }
 
 .testimonials .test-1 p::after {
@@ -4302,7 +4302,7 @@ section.testimonials {
   text-align: center;
   font-size: 1.2rem;
   margin-bottom: .8rem;
-  color: #FF385C;
+  color: Orange;
   font-weight: 600;
 }
 
@@ -4330,7 +4330,7 @@ section.testimonials {
 }
 
 .owl-dot.active {
-  background: #FF385C !important;
+  background: Orange !important;
 }
 
 .starts {
@@ -4416,7 +4416,7 @@ section.counterup {
   content: "";
   width: 100px;
   height: 2px;
-  background: #FF385C;
+  background: Orange;
   position: absolute;
   top: 14px;
   left: -80px;
@@ -4426,7 +4426,7 @@ section.counterup {
   content: "";
   width: 100px;
   height: 2px;
-  background: #FF385C;
+  background: Orange;
   position: absolute;
   top: 14px;
   right: -80px;
@@ -4440,7 +4440,7 @@ section.counterup {
 
 .counterup .countr .fa {
   font-size: 3rem;
-  color: #FF385C;
+  color: Orange;
   border-radius: 5px;
   margin-right: 1.5rem;
 }
@@ -4453,7 +4453,7 @@ section.counterup {
 
 .counterup .title-style h2,
 .counterup .title-style p {
-  color: #FF385C;
+  color: Orange;
 }
 
 .counterup .title-style span {
@@ -4677,7 +4677,7 @@ section.counterup {
   display: block;
   height: 3px;
   font-weight: bold;
-  background-color: #FF385C;
+  background-color: Orange;
   content: " ";
   width: 50px;
   margin-top: .5rem;
@@ -4743,7 +4743,7 @@ section.counterup {
   display: block;
   height: 3px;
   font-weight: bold;
-  background-color: #FF385C;
+  background-color: Orange;
   content: " ";
   width: 50px;
   margin-top: .5rem;
@@ -4808,7 +4808,7 @@ section.counterup {
   display: block;
   height: 3px;
   font-weight: bold;
-  background-color: #FF385C;
+  background-color: Orange;
   content: " ";
   width: 50px;
   margin-top: .5rem;
@@ -4901,7 +4901,7 @@ section.counterup {
   display: block;
   height: 3px;
   font-weight: bold;
-  background-color: #FF385C;
+  background-color: Orange;
   content: " ";
   width: 50px;
   margin-top: .5rem;
@@ -4942,7 +4942,7 @@ section.counterup {
 .first-footer .bloq-email .email input[type="submit"] {
   border: 0px;
   padding: .8rem;
-  background: #FF385C;
+  background: Orange;
   color: #fff;
   text-transform: uppercase;
   font-weight: bold;
@@ -5099,7 +5099,7 @@ element.style {
   right: 1rem;
   font-size: 1.5rem;
   font-weight: 500;
-  background: #FF385C;
+  background: Orange;
   padding: .9rem;
   color: #fff;
   border-radius: 5px;
@@ -5513,7 +5513,7 @@ element.style {
 
 .login-and-register-form .close-reg {
   position: absolute;
-  background: #FF385C;
+  background: Orange;
   top: 14px;
   right: 30px;
   border-radius: 100%;
@@ -5632,7 +5632,7 @@ element.style {
 }
 
 .login-and-register-form .tabs-menu li.current a {
-  background: #FF385C;
+  background: Orange;
 }
 
 .login-and-register-form .main-register .filter-tags {
@@ -5733,7 +5733,7 @@ element.style {
 
 .login-and-register-form .custom-form .log-submit-btn {
   float: left;
-  background: #FF385C;
+  background: Orange;
   padding: 13px 35px;
   border: none;
   border-radius: 4px;
@@ -5757,7 +5757,7 @@ element.style {
 .login-and-register-form .tabs-menu li.current a,
 .login-and-register-form .tabs-menu li a:hover {
   color: #fff;
-  background: #FF385C;
+  background: Orange;
 }
 
 .login-and-register-form .tab-contents {
@@ -5771,7 +5771,7 @@ element.style {
 }
 
 .login-and-register-form .main-register h3 span strong {
-  color: #FF385C;
+  color: Orange;
   border: none;
   outline: 0;
   font-weight: inherit;
@@ -6142,7 +6142,7 @@ a.button,
 }
 
 .homepage-3 .portfolio .homes-tag.sale {
-  background: #FF385C !important;
+  background: Orange !important;
 }
 
 .homepage-3 .portfolio .homes-tag.rent {
@@ -6395,7 +6395,7 @@ a.button,
 
 .homepage-1 .job_clientSlide .owl-nav .owl-prev:hover,
 .homepage-1 .job_clientSlide .owl-nav .owl-next:hover {
-  background: #FF385C;
+  background: Orange;
   color: #fff;
 }
 
@@ -6496,7 +6496,7 @@ a.button,
 
 .play-icon {
   font-size: 22px;
-  color: #FF385C;
+  color: Orange;
   position: absolute;
   top: 50%;
   left: 50%;
@@ -6599,7 +6599,7 @@ a.button,
 }
 
 .overlay-dark::after {
-  background-color: #ff385c;
+  background-color: Orange;
   opacity: 0.80;
   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=85)";
   z-index: -1;
@@ -6615,7 +6615,7 @@ a.button,
 }
 
 .homepage-4 #navigation.style-1 ul li:hover {
-  background: #FF385C;
+  background: Orange;
 }
 
 .homepage-4 .btn,
@@ -6633,7 +6633,7 @@ a.button,
 
 .homepage-4 .slick-prev:hover,
 .homepage-4 .slick-next:hover {
-  background: #FF385C;
+  background: Orange;
 }
 
 .homepage-4 .project-single .button-effect {
@@ -6723,7 +6723,7 @@ a.button,
 .homepage-4 a.button.border, a.button,
 .homepage-4 .header-image .left .btn-white {
   background: #fff;
-  color: #FF385C !important;
+  color: Orange !important;
   -webkit-box-shadow: 0px 0px 0px 4px rgba(255, 255, 255, 0.2);
           box-shadow: 0px 0px 0px 4px rgba(255, 255, 255, 0.2);
 }
@@ -6741,7 +6741,7 @@ a.button,
 }
 
 .homepage-4 .homes-tag.featured {
-  background: #FF385C !important;
+  background: Orange !important;
 }
 
 .homepage-4 .portfolio .homes-price {
@@ -6836,12 +6836,12 @@ a.button,
 
 .homepage-4 .portfolio .homes-content h3 a:hover,
 .homepage-4 .blog-section .news-item h3:hover {
-  color: #FF385C;
+  color: Orange;
 }
 
 .homepage-4 .btn:hover,
 .homepage-4 .popular-places .listing-badges .featured {
-  background: #FF385C;
+  background: Orange;
 }
 
 .homepage-4 .popular-places .img-box {
@@ -6876,7 +6876,7 @@ a.button,
 }
 
 .homepage-4 .info-help .info-head .info-text .btn-pro {
-  background: #FF385C;
+  background: Orange;
 }
 
 .homepage-4 .testimonials .test-1 h3 {
@@ -6884,7 +6884,7 @@ a.button,
 }
 
 .homepage-4 .starts .fa {
-  color: #FF385C !important;
+  color: Orange !important;
 }
 
 .homepage-4 .testimonials .test-1 p::before {
@@ -6894,7 +6894,7 @@ a.button,
   left: 236px;
   top: -24px;
   position: relative;
-  color: #FF385C;
+  color: Orange;
 }
 
 .homepage-4 .owl-dots {
@@ -6927,7 +6927,7 @@ a.button,
 .homepage-4 .blog-section .action-list .fa-comment,
 .homepage-4 .blog-section .action-list .fa-share-alt,
 .homepage-4 .blog-section .news-link {
-  color: #FF385C;
+  color: Orange;
 }
 
 .homepage-4 .first-footer .top-footer {
@@ -6939,7 +6939,7 @@ a.button,
 .homepage-4 .first-footer .newsletters h3::after,
 .homepage-4 .first-footer .bloq-email .email input[type="submit"],
 .homepage-4 .go-up {
-  background: #FF385C;
+  background: Orange;
 }
 
 .homepage-4 .welcome-area {
@@ -7214,7 +7214,7 @@ a.button,
 /*---------------------------------------*/
 .main-search-field {
   padding: 3rem 0;
-  background: #FF385C;
+  background: Orange;
   background-repeat: repeat;
 }
 
@@ -7465,7 +7465,7 @@ html input[disabled] {
 }
 
 .parallax-search .form-group .nice-select:hover {
-  color: #FF385C;
+  color: Orange;
 }
 
 .parallax-search .form-group .nice-select::after {
@@ -7474,7 +7474,7 @@ html input[disabled] {
 }
 
 .parallax-search .form-group .nice-select i {
-  color: #FF385C;
+  color: Orange;
   font-size: 1.2rem;
   margin-top: 5px;
   margin-right: 10px;
@@ -7491,7 +7491,7 @@ html input[disabled] {
 
 .parallax-search .form-group .list li:hover {
   color: #fff;
-  background: #FF385C;
+  background: Orange;
 }
 
 .parallax-search .form-group.location {
@@ -7579,12 +7579,12 @@ html input[disabled] {
 .hp-6 .btn.sApp-btn:before,
 .hp-6 .bg-overlay::after,
 .hp-6 .benifits-item:after {
-  background: linear-gradient(-47deg, #FF385C 0%, #FF385C 100%);
+  background: linear-gradient(-47deg, Orange 0%, Orange 100%);
 }
 
 .hp-6 a.btn.btn-yellow:hover {
   background: #fff !important;
-  color: #FF385C;
+  color: Orange;
 }
 
 .hp-6 .bg-overlay::after {
@@ -7595,14 +7595,14 @@ html input[disabled] {
 .hp-6 .rld-banner-tab .nav-item a.active,
 .hp-6 .rld-banner-tab .nav-item a:hover,
 .hp-6 .rld-banner-tab .nav-item a.active:before {
-  background: #FF385C;
+  background: Orange;
 }
 
 .hp-6 .btn.btn-yellow {
   border: 0px;
   border-radius: 8px;
   font-size: 15px;
-  background-color: #FF385C;
+  background-color: Orange;
   -webkit-box-shadow: 0px 1px 4px 0px rgba(255, 90, 95, 0.3);
           box-shadow: 0px 1px 4px 0px rgba(255, 90, 95, 0.3);
   color: #ffffff;
@@ -7832,7 +7832,7 @@ html input[disabled] {
   font-size: 20px;
   font-weight: 400;
   margin-left: 15px;
-  color: #FF385C;
+  color: Orange;
 }
 
 .hp-6 .explore__form-checkbox-list.full-filter.filter-block {
@@ -7938,7 +7938,7 @@ html input[disabled] {
 }
 
 .homepage-12 .header-image .left .btn-white {
-  background: #FF385C;
+  background: Orange;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -7957,7 +7957,7 @@ html input[disabled] {
   display: inline-block;
   height: 100px;
   width: 100px;
-  background-color: #FF385C;
+  background-color: Orange;
   border-radius: 50%;
   margin-top: 50px;
 }
@@ -7971,7 +7971,7 @@ html input[disabled] {
   height: 100%;
   width: 100%;
   border-radius: 50%;
-  background-color: #FF385C;
+  background-color: Orange;
 }
 
 .homepage-12 .play-icon {
@@ -8103,7 +8103,7 @@ html input[disabled] {
   width: 18px;
   height: 18px;
   border-radius: 50%;
-  border: 2px solid #FF385C;
+  border: 2px solid Orange;
   cursor: w-resize;
   background: #fff;
   outline: none;
@@ -8126,7 +8126,7 @@ html input[disabled] {
 }
 
 .hp-6 .range-slider .ui-widget-header {
-  background-color: #FF385C;
+  background-color: Orange;
 }
 
 .hp-6 .range-slider .ui-slider.ui-state-disabled .ui-slider-handle,
@@ -8258,7 +8258,7 @@ html input[disabled] {
   color: #fff;
   text-align: center;
   line-height: 15px;
-  background-color: #FF385C;
+  background-color: Orange;
   border: 2px solid transparent;
   -webkit-transition: border-color 0s;
   transition: border-color 0s;
@@ -8267,7 +8267,7 @@ html input[disabled] {
 .parallax-search .form-group .btn {
   display: block;
   width: 100%;
-  background: #FF385C;
+  background: Orange;
   cursor: pointer;
   color: #fff;
   text-transform: uppercase;
@@ -8537,7 +8537,7 @@ html input[disabled] {
 }
 
 .search-2 .form-group .nice-select:hover {
-  color: #FF385C;
+  color: Orange;
 }
 
 .search-2 .form-group .nice-select::after {
@@ -8546,7 +8546,7 @@ html input[disabled] {
 }
 
 .search-2 .form-group .nice-select i {
-  color: #FF385C;
+  color: Orange;
   font-size: 1.2rem;
   margin-top: 5px;
   margin-right: 10px;
@@ -8563,7 +8563,7 @@ html input[disabled] {
 
 .search-2 .form-group .list li:hover {
   color: #fff;
-  background: #FF385C;
+  background: Orange;
 }
 
 .search-2 .form-group.looking {
@@ -8623,7 +8623,7 @@ html input[disabled] {
 .search-2 .form-group .btn {
   display: block;
   width: 100%;
-  background: #FF385C;
+  background: Orange;
   cursor: pointer;
   color: #fff;
   text-transform: uppercase;
@@ -10016,7 +10016,7 @@ a.int_btn,
   display: inline-block;
   padding: 5px 10px;
   float: right;
-  background-color: #FF385C;
+  background-color: Orange;
   border-radius: 3px;
   top: 15px;
   right: 15px;
@@ -11326,7 +11326,7 @@ section.featured.home15 {
 }
 
 .featured.home15 .sec-title h2 {
-  color: #FF385C;
+  color: Orange;
   margin-bottom: .5rem;
 }
 
@@ -11357,7 +11357,7 @@ section.featured.home15 {
 }
 
 .featured.home15 .filters-group ul li:hover {
-  background: #FF385C;
+  background: Orange;
   color: #fff;
 }
 
@@ -11377,7 +11377,7 @@ section.featured.home15 {
   }
 }
 .featured.home15 .filters-group .active {
-  background: #FF385C;
+  background: Orange;
   color: #fff;
 }
 
@@ -11464,7 +11464,7 @@ section.featured.home15 {
   border-radius: 2px;
   color: #fff;
   border: none;
-  background-color: #FF385C;
+  background-color: Orange;
   display: inline-block;
   z-index: 99;
 }
@@ -11596,7 +11596,7 @@ section.featured.home15 {
 }
 
 .featured.home15 .homes-content h3 a:hover {
-  color: #FF385C;
+  color: Orange;
 }
 
 .price-properties h3 {
@@ -11645,7 +11645,7 @@ section.featured.home15 {
   font-size: 13px;
   line-height: 40px;
   list-style: none;
-  color: #FF385C;
+  color: Orange;
 }
 
 .featured.home15 .homes-content .homes-list li i {
@@ -11957,7 +11957,7 @@ section.visited-cities {
 }
 
 .visited-cities .img-box:hover {
-  background: #FF385C;
+  background: Orange;
 }
 
 .visited-cities .img-box:before {
@@ -11990,7 +11990,7 @@ section.visited-cities {
 }
 
 .visited-cities .listing-badges .featured {
-  background-color: #FF385C;
+  background-color: Orange;
   float: left;
   -webkit-transform: rotate(-45deg);
           transform: rotate(-45deg);
@@ -12928,7 +12928,7 @@ section.team {
 .th-8 .btn:hover,
 .th-8 .popular-places .listing-badges .featured,
 .th-8 .homes-tag.featured {
-  background: #FF385C !important;
+  background: Orange !important;
 }
 
 .th-8 .filter .button {
@@ -13017,7 +13017,7 @@ a.button,
 }
 
 .th-8 a.button.border, a.button {
-  background: #FF385C;
+  background: Orange;
   color: #fff !important;
 }
 
@@ -13093,8 +13093,8 @@ a.button,
 }
 
 .th-8 .contact-us .btn {
-  background: #FF385C;
-  border: 1px solid #FF385C;
+  background: Orange;
+  border: 1px solid Orange;
   cursor: pointer;
   -webkit-transition: all .5s ease;
   transition: all .5s ease;
@@ -13103,7 +13103,7 @@ a.button,
 .th-8 .contact-us .btn:hover {
   background: #fff;
   color: #121B22;
-  border: 1px solid #FF385C;
+  border: 1px solid Orange;
 }
 
 .th-8 .address-info p:last-child {
@@ -13278,7 +13278,7 @@ form label.error {
 }
 
 .th-8 .parallax-search8 .form-group .nice-select:hover {
-  color: #FF385C;
+  color: Orange;
 }
 
 .th-8 .parallax-search8 .form-group .nice-select::after {
@@ -13287,7 +13287,7 @@ form label.error {
 }
 
 .th-8 .parallax-search8 .form-group .nice-select i {
-  color: #FF385C;
+  color: Orange;
   font-size: 1.2rem;
   margin-top: 5px;
   margin-right: 10px;
@@ -13304,7 +13304,7 @@ form label.error {
 
 .th-8 .parallax-search8 .form-group .list li:hover {
   color: #fff;
-  background: #FF385C;
+  background: Orange;
 }
 
 .th-8 .parallax-search8 .form-group.looking {
@@ -13368,7 +13368,7 @@ form label.error {
 .th-8 .parallax-search8 .form-group .btn {
   display: block;
   width: 100%;
-  background: #FF385C;
+  background: Orange;
   cursor: pointer;
   color: #fff;
   text-transform: uppercase;
@@ -13390,11 +13390,11 @@ form label.error {
 }
 
 .th-8 .parallax-search8 .form-group .nice-select i {
-  color: #FF385C;
+  color: Orange;
 }
 
 .th-8 .parallax-search8 .form-group .nice-select:hover {
-  color: #FF385C;
+  color: Orange;
 }
 
 .th-8 .parallax-search8 img {
@@ -13480,7 +13480,7 @@ form label.error {
   width: 18px;
   height: 18px;
   border-radius: 50%;
-  border: 2px solid #FF385C;
+  border: 2px solid Orange;
   cursor: w-resize;
   background: #fff;
   outline: none;
@@ -13503,7 +13503,7 @@ form label.error {
 }
 
 .th-8 .range-slider .ui-widget-header {
-  background-color: #FF385C;
+  background-color: Orange;
 }
 
 .th-8 .range-slider .ui-slider.ui-state-disabled .ui-slider-handle,
@@ -14640,7 +14640,7 @@ a.button {
 }
 
 .homepage-24 .header-image .left .btn-white {
-  background: #FF385C;
+  background: Orange;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -14697,7 +14697,7 @@ a.button {
   display: block;
   height: 3px;
   font-weight: bold;
-  background-color: #FF385C;
+  background-color: Orange;
   content: " ";
   width: 50px;
   margin-top: .5rem;
@@ -14727,7 +14727,7 @@ a.button {
   cursor: pointer;
   margin-top: 1rem;
   border: 0px;
-  background: #FF385C;
+  background: Orange;
 }
 
 .homepage-24 .bgc {
@@ -14757,7 +14757,7 @@ a.button {
 
 .homepage-24 .call-info ul li .fa {
   font-size: 1.6rem;
-  color: #FF385C;
+  color: Orange;
 }
 
 .homepage-24 .call-info .info p {
@@ -14778,7 +14778,7 @@ a.button {
   display: inline-block;
   height: 100px;
   width: 100px;
-  background-color: #FF385C;
+  background-color: Orange;
   border-radius: 50%;
   margin-top: 35px;
 }
@@ -14792,7 +14792,7 @@ a.button {
   height: 100%;
   width: 100%;
   border-radius: 50%;
-  background-color: #FF385C;
+  background-color: Orange;
 }
 
 .homepage-24 .teh-left {
@@ -14957,11 +14957,11 @@ a.button {
 .inner-pages.hp-6.full .parallax-searchs .form-group .nice-select:hover,
 .inner-pages.hp-6.full .dropdown-filter span::after,
 .inner-pages.hp-6.full .btn.btn-yellow:hover {
-  color: #FF385C;
+  color: Orange;
 }
 
 .inner-pages.hp-6.full .btn.btn-yellow {
-  background: #FF385C;
+  background: Orange;
 }
 
 .inner-pages.hp-6.full .nice-select.wide {
@@ -15262,7 +15262,7 @@ a.button {
 }
 
 .inner-pages .blog .block-heading .change-view-btn.lde:hover {
-  background: #FF385C;
+  background: Orange;
   color: #fff !important;
 }
 
@@ -15280,7 +15280,7 @@ a.button {
 }
 
 .inner-pages .change-view-btn:hover {
-  color: #FF385C !important;
+  color: Orange !important;
 }
 
 .inner-pages .active-view-btn {
@@ -15291,7 +15291,7 @@ a.button {
 }
 
 .inner-pages .blog .active-view-btn:hover {
-  background: #FF385C !important;
+  background: Orange !important;
   color: #fff;
 }
 
@@ -15301,7 +15301,7 @@ a.button {
 }
 
 .inner-pages .blog .homes .fa {
-  color: #FF385C;
+  color: Orange;
 }
 
 .inner-pages .properties-list .compare,
@@ -15318,7 +15318,7 @@ a.button {
 }
 
 .inner-pages .blog .section-heading .media .media-left i {
-  background: #FF385C;
+  background: Orange;
   color: #fff;
   width: 47px;
   height: 47px;
@@ -15391,7 +15391,7 @@ a.button {
 }
 
 .inner-pages .blog .ui-widget.ui-widget-content {
-  background: #FF385C;
+  background: Orange;
 }
 
 .inner-pages .blog .hvr-bounce-to-right {
@@ -15401,7 +15401,7 @@ a.button {
   margin-top: 2rem;
   font-size: 14px;
   cursor: pointer;
-  background: #FF385C;
+  background: Orange;
   color: #ffffff;
   text-transform: uppercase;
   border: none;
@@ -15420,11 +15420,11 @@ a.button {
 .inner-pages.homepage-4 .first-footer .newsletters h3::after,
 .inner-pages.homepage-4 .first-footer .bloq-email .email input[type="submit"],
 .inner-pages.homepage-4 .go-up {
-  background: #FF385C;
+  background: Orange;
 }
 
 .inner-pages.homepage-4 #navigation.style-1 ul li:hover {
-  background: #FF385C;
+  background: #293046;
 }
 
 @media screen and (min-width: 992px) {
@@ -15559,7 +15559,7 @@ a.button {
 
 .inner-pages a.more-search-options-trigger {
   text-decoration: none;
-  color: #FF385C;
+  color: Orange;
 }
 
 .inner-pages .form-group.looking {
@@ -15670,7 +15670,7 @@ a.button {
   width: 18px;
   height: 18px;
   border-radius: 50%;
-  border: 2px solid #FF385C;
+  border: 2px solid Orange;
   cursor: w-resize;
   background: #fff;
   outline: none;
@@ -15693,7 +15693,7 @@ a.button {
 }
 
 .inner-pages .range-slider .ui-widget-header {
-  background-color: #FF385C;
+  background-color: Orange;
 }
 
 .inner-pages .range-slider .ui-slider.ui-state-disabled .ui-slider-handle,
@@ -15823,7 +15823,7 @@ a.button {
   color: #fff;
   text-align: center;
   line-height: 15px;
-  background-color: #FF385C;
+  background-color: Orange;
   border: 2px solid transparent;
   -webkit-transition: border-color 0s;
   transition: border-color 0s;
@@ -15916,16 +15916,16 @@ section.google-map-right {
 }
 
 .half-map-view .dropdown-filter span::after {
-  color: #FF385C;
+  color: Orange;
 }
 
 .half-map-view .btn.btn-yellow {
-  background: #FF385C;
+  background: Orange;
 }
 
 .half-map-view a.btn.btn-yellow:hover,
 .half-map-view .form-group .nice-select:hover {
-  color: #FF385C;
+  color: Orange;
 }
 
 .half-map-view .explore__form-checkbox-list.full-filter.filter-block {
@@ -16099,7 +16099,7 @@ section.headings-2 {
 .inner-pages .headings-2 .listing-title-bar h4 {
   font-size: 24px;
   font-weight: 600;
-  color: #FF385C;
+  color: Orange;
   text-transform: capitalize !important;
 }
 
@@ -16112,7 +16112,7 @@ section.headings-2 {
 
 .inner-pages .headings-2 span.category-tag {
   font-size: 14px;
-  background: #FF385C;
+  background: Orange;
   color: #fff;
   border: 1px solid #fff;
   padding: 5px 15px;
@@ -16225,7 +16225,7 @@ h4.widget_author__name {
   position: absolute;
   top: 50%;
   left: 35px;
-  background: #FF385C;
+  background: Orange;
   width: 36px;
   height: 36px;
   line-height: 36px;
@@ -16257,7 +16257,7 @@ h4.widget_author__name {
   position: absolute;
   top: 50%;
   right: 35px;
-  background: #FF385C;
+  background: Orange;
   width: 36px;
   height: 36px;
   line-height: 36px;
@@ -16315,7 +16315,7 @@ div.datedropper.my-style .pick-lg-h,
 div.datedropper.my-style .pick-m,
 div.datedropper.my-style .pick-submit,
 div.datedropper.my-style:before {
-  background-color: #FF385C;
+  background-color: Orange;
 }
 
 div.datedropper.my-style .pick-l,
@@ -16329,7 +16329,7 @@ div.datedropper.my-style .pick li span,
 div.datedropper.my-style .pick-btn,
 div.datedropper.my-style .pick-lg-b .pick-wke,
 div.datedropper.my-style .pick-y.pick-jump {
-  color: #FF385C;
+  color: Orange;
 }
 
 div.datedropper.my-style .pick-arw,
@@ -16372,7 +16372,7 @@ div.datedropper.my-style.picker-lkd .pick-submit {
 .theme-btn:hover,
 .theme-btn:active {
   color: #fff;
-  background: #FF385C;
+  background: Orange;
 }
 
 .schedule .full-width {
@@ -16389,7 +16389,7 @@ div.datedropper.my-style.picker-lkd .pick-submit {
 
 .schedule .input-group-btn:not(:last-child) > .btn:hover,
 .input-group-btn:not(:first-child) > .btn:hover {
-  background: #FF385C;
+  background: Orange;
   color: #fff;
 }
 
@@ -16441,7 +16441,7 @@ div.datedropper.my-style.picker-lkd .pick-submit {
   line-height: 40px;
   text-align: center;
   background-color: #fff;
-  color: #FF385C;
+  color: Orange;
   border-radius: 50%;
   font-size: 18px;
   margin-right: 10px;
@@ -16457,7 +16457,7 @@ div.datedropper.my-style.picker-lkd .pick-submit {
 }
 
 .sidebar .sidebar-widget .author__contact li a:hover {
-  color: #FF385C;
+  color: Orange;
 }
 
 .sidebar-widget ul {
@@ -16492,7 +16492,7 @@ div.datedropper.my-style.picker-lkd .pick-submit {
   height: 35px;
   line-height: 35px;
   background-color: rgba(128, 137, 150, 0.2);
-  color: #FF385C;
+  color: Orange;
   border-radius: 50%;
   font-size: 16px;
   -webkit-transition: all .3s;
@@ -16518,7 +16518,7 @@ div.datedropper.my-style.picker-lkd .pick-submit {
 
 .widget-boxed .input-group .fa {
   font-size: 18px !important;
-  color: #FF385C;
+  color: Orange;
 }
 
 .widget-boxed .input-group .fa:hover {
@@ -16539,7 +16539,7 @@ div.datedropper.my-style.picker-lkd .pick-submit {
 }
 
 .widget-boxed-header h4 .fa {
-  color: #FF385C;
+  color: Orange;
   position: relative;
   top: 0px;
 }
@@ -16589,7 +16589,7 @@ div.datedropper.my-style.picker-lkd .pick-submit {
 }
 
 .agent-contact-form-sidebar .multiple-send-message {
-  background-color: #FF385C;
+  background-color: Orange;
   color: #ffffff;
   font-family: "Montserrat", sans-serif;
   cursor: pointer;
@@ -16970,7 +16970,7 @@ div.datedropper.my-style.picker-lkd .pick-submit {
 }
 
 .inner-pages .blog .sorting-options h5 {
-  color: #FF385C;
+  color: Orange;
   font-family: 'Montserrat', sans-serif;
   font-weight: bold;
   margin-top: 0px;
@@ -17006,11 +17006,11 @@ div.datedropper.my-style.picker-lkd .pick-submit {
 .wprt-image-video.w50.pro h5:after,
 .similar-property h5:after,
 .ag-de .blog-section h5:after {
-  color: #FF385C;
+  color: Orange;
   display: block;
   height: 3px;
   font-weight: bold;
-  background-color: #FF385C;
+  background-color: Orange;
   content: " ";
   width: 50px;
   margin-top: .5rem;
@@ -17020,7 +17020,7 @@ div.datedropper.my-style.picker-lkd .pick-submit {
 .property .popup-youtube {
   background: #fff none repeat scroll 0 0;
   border-radius: 100%;
-  color: #FF385C;
+  color: Orange;
   font-size: 30px;
   height: 70px;
   left: 50%;
@@ -17227,7 +17227,7 @@ div.datedropper.my-style.picker-lkd .pick-submit {
   padding: 6px 7px;
   color: #fff;
   border: 0px;
-  background-color: #FF385C;
+  background-color: Orange;
   border-radius: 50px;
   display: inline-block;
   position: relative;
@@ -17315,7 +17315,7 @@ div.datedropper.my-style.picker-lkd .pick-submit {
 }
 
 .inner-pages .blog .homes-content.details .fa {
-  color: #FF385C;
+  color: Orange;
   font-size: 1.5rem;
   font-weight: bold;
 }
@@ -17347,13 +17347,13 @@ div.datedropper.my-style.picker-lkd .pick-submit {
 
 .swiper-button-prev.swiper-button-white,
 .swiper-button-next.swiper-button-white {
-  background-color: #FF385C;
+  background-color: Orange;
   width: 55px;
   height: 55px;
 }
 
 .swiper-pagination-white .swiper-pagination-bullet-active {
-  background: #FF385C;
+  background: Orange;
   padding: 8px;
 }
 
@@ -17618,7 +17618,7 @@ h2.white {
   -webkit-transition: all 0.6s;
   transition: all 0.6s;
   z-index: 9;
-  background: #FF385C;
+  background: Orange;
 }
 
 .inner-pages .team-wrap:hover .team-content {
@@ -17630,14 +17630,14 @@ h2.white {
 }
 
 .inner-pages .team-info {
-  background: #FF385C;
+  background: Orange;
   padding: 20px;
   -webkit-transition: all .3s;
   transition: all .3s;
 }
 
 .inner-pages .team-wrap:hover .team-content .team-info {
-  background: #FF385C;
+  background: Orange;
 }
 
 .inner-pages .team-content h3 {
@@ -17748,7 +17748,7 @@ h2.white {
 }
 
 .inner-pages .team-content span a:hover {
-  color: #FF385C;
+  color: Orange;
 }
 
 .inner-pages .team .team-pro ul {
@@ -17924,7 +17924,7 @@ ul.the-agents-details li a {
 }
 
 .view-my-listing a {
-  color: #FF385C !important;
+  color: Orange !important;
   -webkit-transition: all .3s ease;
   transition: all .3s ease;
 }
@@ -17934,7 +17934,7 @@ ul.the-agents-details li a {
 }
 
 .agents .listing-hidden-content {
-  background: #FF385C;
+  background: Orange;
 }
 
 .agents .schedule.widget-boxed.mt-33 {
@@ -18124,7 +18124,7 @@ ul.the-agents-details li a {
 }
 
 .inner-pages .button.alt {
-  background-color: #FF385C;
+  background-color: Orange;
   color: #fff;
 }
 
@@ -18151,7 +18151,7 @@ ul.the-agents-details li a {
   font-size: 1.2rem !important;
   margin: 0 0 15px;
   text-decoration: none;
-  color: #FF385C;
+  color: Orange;
 }
 
 .inner-pages .homes-address span {
@@ -18169,7 +18169,7 @@ ul.the-agents-details li a {
 }
 
 .inner-pages .agent-details .fa {
-  color: #FF385C;
+  color: Orange;
   font-size: 15px;
   margin-right: 8px;
 }
@@ -18354,7 +18354,7 @@ section.single-proper.details {
 
 .agents.det .text-heading.text-left span {
   font-size: 16px;
-  color: #FF385C;
+  color: Orange;
 }
 
 .inner-pages .agent-details .button-effect {
@@ -18410,7 +18410,7 @@ section.single-proper.details {
 
 .agents a.button.border,
 a.button {
-  background-color: #FF385C;
+  background-color: Orange;
   color: #fff !important;
 }
 
@@ -18422,7 +18422,7 @@ a.button {
 }
 
 .inner-pages.sin-1 a.button.border, a.button {
-  background-color: #FF385C;
+  background-color: Orange;
   color: #fff !important;
 }
 
@@ -18643,7 +18643,7 @@ a.button {
 
 .dashboard-bd.hd-white a.button.border,
 .dashboard-bd.hd-white a.button {
-  background-color: #FF385C;
+  background-color: Orange;
   width: 150px;
   top: 0;
   padding: 10px 20px;
@@ -18974,13 +18974,13 @@ body.dashboard-bd {
 }
 
 .dashborad-box a {
-  color: #FF385C;
+  color: Orange;
   text-decoration: none;
 }
 
 .dashborad-box .item .icon span {
   font-size: 32px;
-  color: #FF385C;
+  color: Orange;
 }
 
 .dashborad-box .item .info {
@@ -19030,7 +19030,7 @@ body.dashboard-bd {
 }
 
 .dashboard-bd .second-footer p .fa-heart:before {
-  color: #FF385C;
+  color: Orange;
 }
 
 .listing-table .table thead tr .rating span {
@@ -19053,7 +19053,7 @@ body.dashboard-bd {
 }
 
 .listing-table .table thead tr .edit a span {
-  color: #FF385C !important;
+  color: Orange !important;
 }
 
 .listing-table .table thead tr th {
@@ -19101,7 +19101,7 @@ body.dashboard-bd {
 }
 
 .messages .message .body h6 .badge {
-  background: #FF385C;
+  background: Orange;
   color: #ffffff;
 }
 
@@ -19126,7 +19126,7 @@ body.dashboard-bd {
 }
 
 .messages .message .body .controller ul li a:hover {
-  color: #FF385C;
+  color: Orange;
 }
 
 .review {
@@ -19189,7 +19189,7 @@ body.dashboard-bd {
 }
 
 .review .body .controller ul li a:hover {
-  color: #FF385C;
+  color: Orange;
 }
 
 .password-section {
@@ -19450,7 +19450,7 @@ select:focus {
 .inner-pages .section-inforamation .btn-primary,
 .inner-pages .my-address .btn-primary {
   color: #fff;
-  background-color: #FF385C;
+  background-color: Orange;
   border: none;
   cursor: pointer;
   -webkit-transition: all .5s ease;
@@ -19481,7 +19481,7 @@ select:focus {
 }
 
 .btn-common {
-  background-color: #FF385C;
+  background-color: Orange;
   position: relative;
   z-index: 1;
   color: #fff;
@@ -19494,14 +19494,14 @@ select:focus {
 .pagination-container .pagination .page-item .page-link {
   margin: 0 10px;
   padding: 15px 20px;
-  color: #FF385C;
+  color: Orange;
   border-color: #f3f3f3;
   border-radius: 4px;
   background: #fff;
 }
 
 .pagination-container .pagination .page-item .page-link:hover {
-  background: #FF385C;
+  background: Orange;
   color: #fff;
 }
 
@@ -19751,7 +19751,7 @@ select:focus {
 }
 
 .tr-single-header i {
-  color: #FF385C;
+  color: Orange;
 }
 
 .tr-single-header h4 {
@@ -19905,8 +19905,8 @@ header.payment-card-header .pull-right img {
 }
 
 .custom-checkbox input[type="checkbox"]:checked + label:before {
-  border-color: #FF385C;
-  background: #FF385C;
+  border-color: Orange;
+  background: Orange;
 }
 
 .custom-checkbox input[type="checkbox"]:checked + label:after {
@@ -19960,16 +19960,17 @@ header.payment-card-header .pull-right img {
   background: -webkit-gradient(linear, left top, left bottom, from(rgba(18, 27, 34, 0.6)), to(rgba(18, 27, 34, 0.6))), url(../images/bg/bg-details.jpg) no-repeat center center;
   background: linear-gradient(rgba(18, 27, 34, 0.6), rgba(18, 27, 34, 0.6)), url(../images/bg/bg-details.jpg) no-repeat center center;
   width: 100%;
-  height: 30vh;
+  height: 71vh;
 }
 
 .inner-pages.about .headings {
   background: -webkit-gradient(linear, left top, left bottom, from(rgba(18, 27, 34, 0.6)), to(rgba(18, 27, 34, 0.6))), url(../images/bg/bg-testimonials-2.jpg) no-repeat center center;
   background: linear-gradient(rgba(18, 27, 34, 0.6), rgba(18, 27, 34, 0.6)), url(../images/bg/bg-testimonials-2.jpg) no-repeat center center;
+  height: 376px;
 }
 
 .inner-pages .headings h1 {
-  margin-top: 7.5rem;
+  margin-top: 18.5rem;
   font-size: 26px;
   color: #fff;
 }
@@ -20078,7 +20079,7 @@ header.payment-card-header .pull-right img {
 
 .inner-pages.about .sec-title h2 span {
   font-weight: 600;
-  color: #FF385C;
+  color: Orange;
 }
 
 .inner-pages.about .sec-title h2 span::before {
@@ -20096,12 +20097,12 @@ header.payment-card-header .pull-right img {
 }
 
 .inner-pages.about .starts .fa {
-  color: #FF385C !important;
+  color: Orange !important;
 }
 
 @media screen and (max-width: 500px) {
   .inner-pages .headings h1 {
-    margin-top: 5rem;
+    margin-top: 12rem;
     font-size: 1.5rem;
   }
 }
@@ -20153,7 +20154,7 @@ header.payment-card-header .pull-right img {
 
 .inner-pages .services-2 .section-title .title-style h2,
 .inner-pages .team .section-title .title-style h2 {
-  color: #FF385C;
+  color: Orange;
 }
 
 .inner-pages .services-2 .title-icon:before,
@@ -20181,7 +20182,7 @@ main.services-2 {
 
 .services-2 .art-1 {
   background: #fff;
-  color: #FF385C;
+  color: Orange;
   text-align: center;
   padding: 2rem;
   border-radius: 5px;
@@ -20264,7 +20265,7 @@ main.services-2 {
 }
 
 .inner-pages .panel .panel-heading a {
-  background: #FF385C;
+  background: Orange;
   color: #fff;
   display: block;
   padding: 1rem;
@@ -20330,7 +20331,7 @@ section.pricing-table {
   padding: 30px 0;
   margin-bottom: 30px;
   position: relative;
-  background: #FF385C;
+  background: Orange;
   color: #fff;
 }
 
@@ -20340,7 +20341,7 @@ section.pricing-table {
   content: " ";
   position: absolute;
   border-width: 15px;
-  border-top-color: #FF385C;
+  border-top-color: Orange;
   left: 50%;
   margin-left: -16px;
 }
@@ -20399,7 +20400,7 @@ section.pricing-table {
 
 .plan a.btn {
   color: #fff;
-  background: #FF385C;
+  background: Orange;
   border: 0px;
   margin: 25px 0;
   padding: 8px 30px;
@@ -20433,7 +20434,7 @@ section.pricing-table {
 
 .inner-pages .top-headings h2 {
   font-size: 10rem;
-  color: #FF385C;
+  color: Orange;
   margin-bottom: 2rem;
   line-height: 0.73;
 }
@@ -20459,9 +20460,9 @@ section.pricing-table {
 }
 
 .inner-pages .port-info .btn {
-  background: #FF385C;
+  background: Orange;
   color: #fff;
-  border: 1px solid #FF385C;
+  border: 1px solid Orange;
   -webkit-transition: all .5s ease;
   transition: all .5s ease;
 }
@@ -20652,7 +20653,7 @@ a.btn_1.full-width {
 #login .btn_1,
 a.btn_1 {
   border: none;
-  background: #FF385C;
+  background: Orange;
   cursor: pointer;
   display: inline-block;
   padding: 15px 30px;
@@ -20763,7 +20764,7 @@ a.btn_1 {
 .headings-7 .bloq-email .email input[type="submit"] {
   border: 0;
   padding: .8rem;
-  background: #FF385C;
+  background: Orange;
   border: 1px solid #fff;
   color: #fff;
   text-transform: capitalize;
@@ -20831,7 +20832,7 @@ a.btn_1 {
 .headings-8 .bloq-email .email input[type="submit"] {
   border: 0;
   padding: .8rem;
-  background: #FF385C;
+  background: Orange;
   border: 1px solid #fff;
   color: #fff;
   text-transform: capitalize;
@@ -20910,7 +20911,7 @@ a.btn_1 {
 }
 
 .inner-pages .blog-section .news-item a:hover h3 {
-  color: #FF385C;
+  color: Orange;
   -webkit-transition: all .25s;
   transition: all .25s;
 }
@@ -20974,7 +20975,7 @@ a.btn_1 {
   display: block;
   margin-bottom: 10px;
   font-size: 13px;
-  color: #FF385C;
+  color: Orange;
 }
 
 .inner-pages .blog-section .news-item-descr {
@@ -21011,15 +21012,15 @@ a.btn_1 {
 }
 
 .inner-pages .blog-section .action-list .fa-comment {
-  color: #FF385C;
+  color: Orange;
 }
 
 .inner-pages .blog-section .action-list .fa-share-alt {
-  color: #FF385C;
+  color: Orange;
 }
 
 .inner-pages .blog-section .action-list .fa-heart {
-  color: #FF385C;
+  color: Orange;
 }
 
 .inner-pages .blog-section ul.action-list {
@@ -21084,7 +21085,7 @@ a.btn_1 {
   position: relative;
   font-size: 1rem;
   font-weight: 600;
-  color: #FF385C;
+  color: Orange;
   -webkit-transition: all 0.25s;
   transition: all 0.25s;
 }
@@ -21186,8 +21187,8 @@ a.btn_1 {
 }
 
 .page-item.active .page-link {
-  background: #FF385C;
-  border-color: #FF385C;
+  background: Orange;
+  border-color: Orange;
 }
 
 .page-link {
@@ -21197,7 +21198,7 @@ a.btn_1 {
 }
 
 .page-link:hover {
-  background: #FF385C;
+  background: Orange;
   color: #fff;
 }
 
@@ -21255,7 +21256,7 @@ a.btn_1 {
 }
 
 .inner-pages .blog-section .news-item a:hover h3 {
-  color: #FF385C;
+  color: Orange;
   -webkit-transition: all .25s;
   transition: all .25s;
 }
@@ -21356,15 +21357,15 @@ a.btn_1 {
 }
 
 .inner-pages .blog-section .action-list .fa-comment {
-  color: #FF385C;
+  color: Orange;
 }
 
 .inner-pages .blog-section .action-list .fa-share-alt {
-  color: #FF385C;
+  color: Orange;
 }
 
 .inner-pages .blog-section .action-list .fa-heart {
-  color: #FF385C;
+  color: Orange;
 }
 
 .inner-pages .blog-section ul.action-list {
@@ -21393,7 +21394,7 @@ a.btn_1 {
 }
 .inner-pages .form-control {
   padding: .7rem;
-  border: 1px solid #FF385C;
+  border: 1px solid Orange;
 }
 
 @media screen and (max-width: 767px) {
@@ -21420,8 +21421,8 @@ a.btn_1 {
 }
 
 .inner-pages .input-group-btn .btn-primary {
-  background: #FF385C;
-  border: 1px solid #FF385C;
+  background: Orange;
+  border: 1px solid Orange;
   cursor: pointer;
   -webkit-transition: all .5s ease;
   transition: all .5s ease;
@@ -21468,7 +21469,7 @@ a.btn_1 {
 }
 
 .inner-pages .info-img a:hover {
-  color: #FF385C;
+  color: Orange;
 }
 
 .inner-pages .recent-post .tags {
@@ -21478,9 +21479,9 @@ a.btn_1 {
 }
 
 .inner-pages .recent-post .tags a {
-  background: #FF385C;
+  background: Orange;
   color: #fff;
-  border: 1px solid #FF385C;
+  border: 1px solid Orange;
   margin-bottom: .7rem;
   margin-left: .2rem;
   -webkit-transition: all .5s ease;
@@ -21489,7 +21490,7 @@ a.btn_1 {
 
 .inner-pages .recent-post .tags a:hover {
   background: #fff;
-  color: #FF385C;
+  color: Orange;
 }
 
 .inner-pages .recent-post .tags.no-mb a {
@@ -21523,7 +21524,7 @@ a.btn_1 {
 }
 
 .inner-pages .recent-post ul li a:hover {
-  color: #FF385C;
+  color: Orange;
 }
 
 .inner-pages .recent-post ul li .fa {
@@ -21539,7 +21540,7 @@ a.btn_1 {
   display: block;
   height: 3px;
   font-weight: bold;
-  background-color: #FF385C;
+  background-color: Orange;
   content: " ";
   width: 50px;
   margin-top: .5rem;
@@ -21632,8 +21633,8 @@ a.btn_1 {
 }
 
 .inner-pages .input-group-btn .btn-primary {
-  background: #FF385C;
-  border: 1px solid #FF385C;
+  background: Orange;
+  border: 1px solid Orange;
   cursor: pointer;
   -webkit-transition: all .5s ease;
   transition: all .5s ease;
@@ -21641,7 +21642,7 @@ a.btn_1 {
 
 .inner-pages .input-group-btn .btn-primary:hover {
   background: #fff;
-  color: #FF385C;
+  color: Orange;
 }
 
 .inner-pages .recent-main {
@@ -21684,7 +21685,7 @@ a.btn_1 {
 }
 
 .inner-pages .info-img a:hover {
-  color: #FF385C;
+  color: Orange;
 }
 
 .inner-pages .recent-post .tags a {
@@ -21703,8 +21704,8 @@ a.btn_1 {
 
 .inner-pages .recent-post .tags a:hover {
   background: #fff;
-  color: #FF385C;
-  border: 1px solid #FF385C;
+  color: Orange;
+  border: 1px solid Orange;
 }
 
 .inner-pages .recent-post ul {
@@ -21731,7 +21732,7 @@ a.btn_1 {
 }
 
 .inner-pages .recent-post ul li a:hover {
-  color: #FF385C;
+  color: Orange;
 }
 
 .inner-pages .recent-post ul li .fa {
@@ -21747,7 +21748,7 @@ a.btn_1 {
   display: block;
   height: 3px;
   font-weight: bold;
-  background-color: #FF385C;
+  background-color: Orange;
   content: " ";
   width: 50px;
   margin-top: .5rem;
@@ -21788,7 +21789,7 @@ a.btn_1 {
 }
 
 .inner-pages .comments-info h5 {
-  color: #FF385C;
+  color: Orange;
   font-size: 17px;
   font-weight: 600;
   margin-bottom: 0px;
@@ -21828,7 +21829,7 @@ a.btn_1 {
 }
 
 .inner-pages .social-share a {
-  color: #FF385C;
+  color: Orange;
   font-size: 1.5rem;
   margin: 0 .5rem;
 }
@@ -21854,7 +21855,7 @@ a.btn_1 {
   display: block;
   height: 3px;
   font-weight: bold;
-  background-color: #FF385C;
+  background-color: Orange;
   content: " ";
   width: 50px;
   margin-top: .5rem;
@@ -21889,7 +21890,7 @@ section.leve-comments {
 }
 
 .inner-pages .leve-comments .btn {
-  background: #FF385C;
+  background: Orange;
   cursor: pointer;
   font-size: 16px;
   border: none;
@@ -21945,8 +21946,8 @@ section.leve-comments {
 }
 
 .inner-pages .contact-us .btn {
-  background: #FF385C;
-  border: 1px solid #FF385C;
+  background: Orange;
+  border: 1px solid Orange;
   cursor: pointer;
   -webkit-transition: all .5s ease;
   transition: all .5s ease;
@@ -21955,7 +21956,7 @@ section.leve-comments {
 .inner-pages .contact-us .btn:hover {
   background: #fff;
   color: #121B22;
-  border: 1px solid #FF385C;
+  border: 1px solid Orange;
 }
 
 .inner-pages .address-info p:last-child {
@@ -22038,7 +22039,7 @@ form label.error {
   display: block;
   height: 3px;
   font-weight: bold;
-  background-color: #FF385C;
+  background-color: Orange;
   content: " ";
   width: 50px;
   margin-top: .5rem;
@@ -22130,7 +22131,7 @@ form label.error {
   border-bottom: 1px solid #ddd;
   margin-bottom: 40px;
   padding-bottom: 25px;
-  color: #FF385C;
+  color: Orange;
   text-transform: capitalize;
 }
 
@@ -22315,7 +22316,7 @@ form label.error {
   }
 }
 .inner-pages .prperty-submit-button > button {
-  background: #FF385C none repeat scroll 0 0;
+  background: Orange none repeat scroll 0 0;
   border: medium none;
   color: #fff;
   cursor: pointer;
@@ -22446,8 +22447,8 @@ form label.error {
 
 .leaflet-div-icon,
 .map-marker {
-  background-color: #FF385C;
-  border: 5px solid #FF385C;
+  background-color: Orange;
+  border: 5px solid Orange;
   border-radius: 50%;
   cursor: pointer;
   position: relative;
@@ -22460,7 +22461,7 @@ form label.error {
 .map-marker:before {
   border: 4px solid transparent;
   border-width: 10px 8px;
-  border-top-color: #FF385C;
+  border-top-color: Orange;
   bottom: -24px;
   height: 0;
   content: '';
@@ -22598,7 +22599,7 @@ form label.error {
 
 .listing-window-image:before {
   -webkit-font-smoothing: antialiased;
-  background-color: #FF385C;
+  background-color: Orange;
   border-radius: 50%;
   color: #fff;
   content: '\f002';
@@ -22658,7 +22659,7 @@ form label.error {
 }
 
 .listing-window-content h3 {
-  background-color: #FF385C;
+  background-color: Orange;
   border-radius: 3px;
   color: #fff;
   display: inline-block;
@@ -22915,7 +22916,7 @@ form label.error {
   position: relative;
   z-index: 100;
   border-radius: 5px;
-  background: #FF385C;
+  background: Orange;
   float: right;
   color: #fff;
 }
@@ -22949,7 +22950,7 @@ form label.error {
     padding: 15px;
     position: absolute;
     width: 100%;
-    background: #FF385C;
+    background: Orange;
   }
 
   .google-maps .filter .filter-item {
@@ -23176,7 +23177,7 @@ textarea.border,
   padding: 6px 23px 6px 23px;
   font-size: 12px;
   color: #fff;
-  background: #FF385C;
+  background: Orange;
   display: inline-block;
   width: auto;
   border: none;
@@ -23272,7 +23273,7 @@ section.ui-element {
 }
 
 .ui-elements .accordion-1 .active .title {
-  background: #FF385C;
+  background: Orange;
   color: #fff;
 }
 
@@ -23299,7 +23300,7 @@ section.ui-element {
 }
 
 .ui-elements .accordion-1 .active .title:hover {
-  background: #FF385C;
+  background: Orange;
 }
 
 .ui-elements ul {
@@ -23324,7 +23325,7 @@ section.ui-element {
   display: inline-block;
   overflow: hidden;
   width: 100%;
-  background: #FF385C;
+  background: Orange;
   border-radius: 9px;
 }
 
@@ -23343,7 +23344,7 @@ section.ui-element {
   text-align: center;
   border-radius: 9px;
   width: auto;
-  background: #FF385C;
+  background: Orange;
   -webkit-user-select: none;
      -moz-user-select: none;
       -ms-user-select: none;
@@ -24587,6 +24588,7 @@ section.ui-element {
 @media screen and (max-width: 768px) {
   h1 {
     font-size: 3rem;
+    margin-top: 36vh !important;
   }
 
   h2 {
