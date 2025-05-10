@@ -283,7 +283,7 @@ a.button.border, a.button {
 /* Sticky header styles */
 #header.cloned #logo img {
     transform: translate3d(0, 0, 0);
-    max-width: 120px;
+    width: 169px;
     margin-top: 1px;
 }
 #header.cloned {
