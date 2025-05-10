@@ -19570,7 +19570,7 @@ select:focus {
 }
 @media screen and (max-width: 320px) {
   #logo img {
-    width: 55px;
+    width: 150px;
     margin-right: 35px;
   }
 }

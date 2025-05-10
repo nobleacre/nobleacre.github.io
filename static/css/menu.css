@@ -6,8 +6,8 @@
     margin-top: 1px;
 }
 #logo img {
-    width: 122px;
-    height: 74px;
+    width: 169px;
+    height: 60px;
     transform: translate3d(0, 0, 0);
 }
 #logo.logo-white img {
@@ -1396,10 +1396,9 @@ transform: rotate(-90deg);
     }
     #logo {
         position: absolute;
-        width: 100%;
         margin: 0 auto;
         margin-top: 3px;
-        width: 35%;
+        width: 56%;
         text-align: center;
         left: 0;
         right: 0;
